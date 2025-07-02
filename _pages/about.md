@@ -12,7 +12,7 @@ profile:
     <p>132, Research Hall, GMU</p>
     <p>Fairfax, VA 22030</p>
 
-    <div style="margin-top: 10px; text-align: center;">
+    <div style="margin-top: 1px; text-align: center;">
       <a href="https://www.linkedin.com/in/tasanyphy01773/" target="_blank" style="margin-right: 6px;">
         <img src="/assets/img/icons8-linkedin-48.png" alt="LinkedIn" width="0.4">
       </a>
