@@ -14,13 +14,13 @@ profile:
 
     <div style="margin-top: 10px; text-align: center;">
       <a href="https://www.linkedin.com/in/tasanyphy01773/" target="_blank" style="margin-right: 6px;">
-        <img src="/assets/img/icons8-linkedin-48.png" alt="LinkedIn" width="12">
+        <img src="/assets/img/icons8-linkedin-48.png" alt="LinkedIn" width="4">
       </a>
       <a href="https://github.com/tahmidulazomsany" target="_blank" style="margin-right: 6px;">
         <img src="/assets/img/icons8-github-30.png" alt="GitHub" width="12">
       </a>
       <a href="https://www.researchgate.net/profile/Tahmidul-Sany" target="_blank">
-        <img src="/assets/img/icons8-researchgate-48.png" alt="ResearchGate" width="12">
+        <img src="/assets/img/icons8-researchgate-48.png" alt="ResearchGate" width="2">
       </a>
     </div>
 
