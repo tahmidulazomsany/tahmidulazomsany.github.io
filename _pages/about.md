@@ -12,15 +12,15 @@ profile:
     <p>132, Research Hall, GMU</p>
     <p>Fairfax, VA 22030</p>
 
-    <div style="margin-top: 10px;">
-      <a href="https://www.linkedin.com/in/tasanyphy01773/" target="_blank">
-        <img src="/assets/img/icons8-linkedin-48.png" alt="LinkedIn" width="32">
+    <div style="margin-top: 10px; text-align: center;">
+      <a href="https://www.linkedin.com/in/tasanyphy01773/" target="_blank" style="margin-right: 6px;">
+        <img src="/assets/img/icons8-linkedin-48.png" alt="LinkedIn" width="12">
       </a>
-      <a href="https://github.com/tasanyphy01773" target="_blank">
-        <img src="assets/img/icons8-github-30.png" alt="GitHub" width="32">
+      <a href="https://github.com/tahmidulazomsany" target="_blank" style="margin-right: 6px;">
+        <img src="/assets/img/icons8-github-30.png" alt="GitHub" width="12">
       </a>
       <a href="https://www.researchgate.net/profile/Tahmidul-Sany" target="_blank">
-        <img src="assets/img/icons8-researchgate-48.png" alt="CV" width="32">
+        <img src="/assets/img/icons8-researchgate-48.png" alt="ResearchGate" width="12">
       </a>
     </div>
 
