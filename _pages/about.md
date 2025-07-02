@@ -11,18 +11,23 @@ profile:
   more_info: >
     <p>132, Research Hall, GMU</p>
     <p>Fairfax, VA 22030</p>
-    
 
-  
-  <div align="right" style="margin-top: 10px;">
-    <a href="https://www.linkedin.com/in/tasanyphy01773/" target="_blank">
-      <img src="assets/img/icons8-linkedin-48.png" alt="ln" width="100">
-    </a>
-  </div>
+    <div style="margin-top: 10px;">
+      <a href="https://www.linkedin.com/in/tasanyphy01773/" target="_blank">
+        <img src="/assets/img/icons8-linkedin-48.png" alt="LinkedIn" width="32">
+      </a>
+      <a href="https://github.com/tasanyphy01773" target="_blank">
+        <img src="assets/img/icons8-github-30.png" alt="GitHub" width="32">
+      </a>
+      <a href="https://www.researchgate.net/profile/Tahmidul-Sany" target="_blank">
+        <img src="assets/img/icons8-researchgate-48.png" alt="CV" width="32">
+      </a>
+    </div>
 
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
