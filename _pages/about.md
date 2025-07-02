@@ -9,9 +9,16 @@ profile:
   image: profile_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>132, Research Hall, 001 York River Rd</p>
+    <p>132, Research Hall, GMU</p>
     <p>Fairfax, VA 22030</p>
     
+  email: tsany@gmu.edu
+  cv: /assets/pdf/Tahmidul_CV.pdf
+  github: tahmidulazomsany
+  linkedin: tahmidulazomsany
+  twitter: tsany_
+  researchgate: Tahmidul_Azom_Sany
+  googlescholar: qpj9xGMAAAAJ 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
