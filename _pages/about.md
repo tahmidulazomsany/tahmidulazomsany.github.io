@@ -9,8 +9,12 @@ profile:
   image: profile_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Contact:<p>
+    <p>AOES, George Mason University<p>
     <p>132, Research Hall, GMU</p>
     <p>Fairfax, VA 22030</p>
+    <p>tahmidulazomsany@gmail.com<p>
+    <p>tsany@gmu.edu<p>
 
     <div style="margin-top: 10px; display: flex; justify-content: center; gap: 10px;">
       <a href="https://www.linkedin.com/in/tasanyphy01773/" target="_blank">
