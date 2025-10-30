@@ -46,7 +46,7 @@ My research centers on **land-atmosphere interactions**, focusing on how large-s
 **Skills/Tools:**\
 **Programming Languages:** Python, R, Bash Scripting, MATLAB, Mathematica, C\
 **Python Packages:** Cartopy, Metpy, Numpy, Pandas, Matplotlib, Tkinter, Machine Learning (Scikit-learn, Keras, TensorFlow)\
-**ML Models:** CNN, CNN2D-LSTM, ANN, RNN etc.\
+**ML Models:** RF, CNN, CNN2D-LSTM, ANN, RNN etc.\
 **Other Skills:** Linux, HPC, Latex, HTML, CSS.\
 **Email:** tahmidulazomsany@gmail.com, tsany@gmu.edu
 
