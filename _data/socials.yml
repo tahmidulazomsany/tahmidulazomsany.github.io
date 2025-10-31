@@ -2,56 +2,77 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
-# acm_id: # your dl.acm.org/profile/id
-# blogger_url: # your blogger URL
-# bluesky_url: # your bluesky URL
-# dblp_url: # your DBLP profile url
-# discord_id: # your discord id (18-digit unique numerical identifier)
-email: tahmidulazomsany@gmail.com # your email address
-# facebook_id: # your facebook id
-# flickr_id: # your flickr id
-# github_username: # your GitHub user name
-# gitlab_username: # your GitLab user name
-# ieee_id: # your ieeexplore.ieee.org/author/id
-# inspirehep_id: 1010907 # Inspire HEP author ID
-# instagram_id: # your instagram id
-# kaggle_id: # your kaggle id
-# keybase_username: # your keybase user name
-# lastfm_id: # your lastfm id
-# lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-# leetcode_id: # your LeetCode id
-# linkedin_username: # your LinkedIn user name
-# mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-# medium_username: # your Medium username
-# orcid_id: # your ORCID ID
-# osf_id: # your OSF ID
-# pinterest_id: # your pinterest id
-# publons_id: # your ID on Publons
-# quora_username: # your Quora username
-# research_gate_profile: # your profile on ResearchGate
-rss_icon: true # set to true to show the RSS icon
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
-# scopus_id: # your profile on Scopus
-# semanticscholar_id: # your Semantic Scholar ID
-# spotify_id: # your spotify id
-# stackoverflow_id: # your stackoverflow id
-# telegram_username: # your Telegram user name
-# unsplash_id: # your unsplash id
-# wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-# whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-# wikidata_id: # your wikidata id
-# wikipedia_id: # your wikipedia id (Case sensitive)
-# work_url: # work page URL
-# x_username: # your X handle
-# youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
-# zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+# # acm_id: # your dl.acm.org/profile/id
+# # blogger_url: # your blogger URL
+# # bluesky_url: # your bluesky URL
+# # dblp_url: # your DBLP profile url
+# # discord_id: # your discord id (18-digit unique numerical identifier)
+# email: tahmidulazomsany@gmail.com # your email address
+# # facebook_id: # your facebook id
+# # flickr_id: # your flickr id
+# # github_username: # your GitHub user name
+# # gitlab_username: # your GitLab user name
+# # ieee_id: # your ieeexplore.ieee.org/author/id
+# # inspirehep_id: 1010907 # Inspire HEP author ID
+# # instagram_id: # your instagram id
+# # kaggle_id: # your kaggle id
+# # keybase_username: # your keybase user name
+# # lastfm_id: # your lastfm id
+# # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
+# # leetcode_id: # your LeetCode id
+# # linkedin_username: # your LinkedIn user name
+# # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
+# # medium_username: # your Medium username
+# # orcid_id: # your ORCID ID
+# # osf_id: # your OSF ID
+# # pinterest_id: # your pinterest id
+# # publons_id: # your ID on Publons
+# # quora_username: # your Quora username
+# # research_gate_profile: # your profile on ResearchGate
+# rss_icon: true # set to true to show the RSS icon
+# scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+# # scopus_id: # your profile on Scopus
+# # semanticscholar_id: # your Semantic Scholar ID
+# # spotify_id: # your spotify id
+# # stackoverflow_id: # your stackoverflow id
+# # telegram_username: # your Telegram user name
+# # unsplash_id: # your unsplash id
+# # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+# # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+# # wikidata_id: # your wikidata id
+# # wikipedia_id: # your wikipedia id (Case sensitive)
+# # work_url: # work page URL
+# # x_username: # your X handle
+# # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
+# # zotero_username: # your zotero username
+# # custom_social: # can be any name here other than the ones already defined above
+# #   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+# #   title: Custom Social
+# #   url: https://www.alberteinstein.com/
 
+custom_social_twittwer: # can be any name here other than the ones already defined above
+  logo: https://icons.better-idea.org/icon?url=x.com&size=80..120..200 # can be png, svg, jpg
+  title: twitter
+  url: https://x.com/azomsany
 
-custom_social: # can be any name here other than the ones already defined above
+custom_social_linkedin: # can be any name here other than the ones already defined above
+  logo: https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca # can be png, svg, jpg
+  title: linkedin
+  url: https://www.linkedin.com/in/tasanyphy01773/
+
+custom_social_scholar: # can be any name here other than the ones already defined above
+  logo: https://scholar.google.com/apple-touch-icon.png # can be png, svg, jpg
+  title: scholar
+  url: https://scholar.google.com/citations?user=WtxF-Q0AAAAJ&hl=en
+
+custom_social_RG: # can be any name here other than the ones already defined above
+  logo: https://img.icons8.com/?size=1200&id=JwlJGiL15V81&format=jpg # can be png, svg, jpg
+  title: RG
+  url: https://www.researchgate.net/profile/Tahmidul-Sany
+
+custom_social_github: # can be any name here other than the ones already defined above
   logo: https://github.com/apple-touch-icon.png # can be png, svg, jpg
   title: github
   url: https://github.com/tasanyphy01773
+
+  <svg xmlns="" vi
