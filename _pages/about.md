@@ -29,7 +29,7 @@ profile:
     </div>
 
 selected_papers: false
-social: false
+social: true
 
 announcements:
   enabled: true
