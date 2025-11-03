@@ -9,19 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "Blog",
+  },{id: "nav-research",
+          title: "Research",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "nav-publications",
-          title: "Publications",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/research/";
           },
         },{id: "nav-projects",
           title: "Projects",
@@ -466,13 +459,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-custom_social_twitter',
-        title: 'Custom_social_twitter',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://x.com/azomsany", "_blank");
-        },
-      },{
         id: 'social-custom_social_linkedin',
         title: 'Custom_social_linkedin',
         section: 'Socials',
@@ -499,6 +485,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/tahmidulazomsany", "_blank");
+        },
+      },{
+        id: 'social-custom_social_x',
+        title: 'Custom_social_x',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://x.com/azomsany", "_blank");
         },
       },{
       id: 'light-theme',
