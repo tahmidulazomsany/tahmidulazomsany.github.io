@@ -10,21 +10,11 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Contact:<p>
-    <p>George Mason University<p>
     <p>132, Research Hall</p>
     <p>Fairfax, VA 22030</p>
+    <p>George Mason University<p>
 
-    # <div style="margin-top: 10px; display: flex; justify-content: center; gap: 10px;">
-    #   <a href="https://www.linkedin.com/in/tasanyphy01773/" target="_blank">
-    #     <img src="/assets/img/icons8-linkedin-48.png" alt="LinkedIn" width="24">
-    #   </a>
-    #   <a href="https://github.com/tahmidulazomsany" target="_blank">
-    #     <img src="/assets/img/icons8-github-30.png" alt="GitHub" width="24">
-    #   </a>
-    #   <a href="https://www.researchgate.net/profile/Tahmidul-Sany" target="_blank">
-    #     <img src="/assets/img/icons8-researchgate-48.png" alt="ResearchGate" width="24">
-    #   </a>
-    # </div>
+
 
 selected_papers: false
 social: true
