@@ -4,6 +4,13 @@ title: Home
 permalink: /
 subtitle: PhD Student @GMU Climate Dynamcis | GRA, COLA Land Group
 
+header:
+  overlay_image: assets/img/banner.jpeg   # Path to your banner
+  overlay_filter: 0.3                     # Optional dark overlay (0–1)
+  caption: " "                            # Leave blank or add a caption
+  height: 400px                           # Adjust banner height (optional)
+
+
 profile:
   align: right
   image: profile_pic.jpeg
@@ -14,15 +21,13 @@ profile:
     <p>Fairfax, VA 22030</p>
     <p>George Mason University<p>
 
-
-
 selected_papers: false
 social: true
 
 announcements:
   enabled: true
   scrollable: true
-  limit: 5
+  limit: 10
 
 latest_posts:
   enabled: false
