@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started PhD in Climate Dynamics at GMU
+Started Graduate Research Assistantship under Prof. Paul Dirmeyer (COLA Land Group)
