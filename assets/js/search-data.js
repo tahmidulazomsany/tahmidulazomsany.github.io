@@ -405,15 +405,22 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-completed-b-sc-in-physics-from-sust-bangladesh",
+          title: 'Completed B.Sc in Physics from SUST, Bangladesh',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-started-phd-in-climate-dynamics-at-gmu",
+          title: 'Started PhD in Climate Dynamics at GMU',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "news-started-graduate-research-assistantship-under-prof-paul-dirmeyer-cola-land-group",
+          title: 'Started Graduate Research Assistantship under Prof. Paul Dirmeyer (COLA Land Group)',
+          description: "",
+          section: "News",},{id: "news-approved-ncar-cisl-computing-account",
+          title: 'Approved NCAR/CISL computing account',
+          description: "",
+          section: "News",},{id: "news-attended-cesm-tutorial-2025",
+          title: 'Attended CESM Tutorial 2025',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
